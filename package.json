@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "doc": "jsdoc src"
+    "doc": "jsdoc src -d docs"
   },
   "keywords": [],
   "author": "",
